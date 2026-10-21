@@ -10,7 +10,7 @@
 
 💡 Love modern UI, performance & automation
 
-🚀 Exploring Cloud + AI integrations
+🚀 Exploring ML , Cloud + AI integrations
 
 🛠️ Tech Stack
 Frontend <br>
